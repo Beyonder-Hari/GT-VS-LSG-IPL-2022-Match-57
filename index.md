@@ -11,7 +11,7 @@
 <h2> The Playing XI </h2>
 <h3> The Gujarat Titans </h3>
 <ol>
-<li> Wriddhiman Saha </li>
+<li> Wriddhiman Saha (wk)</li>
 <li>Shubman Gill</li>
 <li>Mathew Wade</li>
 <li>Hardik Pandya (c)</li><li>David Miller</li><li>Rahul Tewatia</li><li>Rashid Khan</li><li>Ravisrinivasan Sai Kishore</li><li>Alzarri Joseph</li><li>Yash Dayal</li><li>Mohammad Shami</li></ol>
@@ -57,5 +57,4 @@ Kings. While The Super Giants are on a Win Streak winning against The Kolkata Kn
  <h2> Match Highlights</h2>
  <h3> In Progress </h3>
  <h4>For more information, you can go to the official IPL website - <a href="https://www.iplt20.com">Click Me! </a></h4>
-</body>
-</html>
+
